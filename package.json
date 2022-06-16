@@ -1,0 +1,7 @@
+{
+  "name": "serverless-api-nodejs",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "^2.1155.0"
+  }
+}
